@@ -82,7 +82,7 @@ export const MAIN_LAND_DISPLAY = {
     "heat_treatment": "Heat Treatment",
     "admin_finance": "Admin Office - Finance",
     "canteen_main": "Canteen",
-    "shop_2_office": "Shop 2 Office",
+    "shop_2_office": "Shop 2 OFFICE",
     "vts_shop": "VTS Shop",
 };
 
